@@ -1,0 +1,65 @@
+{
+    "name": "Luckas S Ribeiro",
+    "photo": "https://avatars.githubusercontent.com/u/93019522?v=4",
+    "job": "Junior Developer",
+    "location": "Olinda - PE",
+    "phone": "(81) 98360-4314",
+    "email": "luckas.ribeiro04@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": "Mongodb",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        },
+        {
+          "name": "Postgresql",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "url": "",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Sem experiência profissional",
+        "period": "0",
+        "description": "Ainda sem experiência profissional, mas buscando o máximo de conhecimento possível para a primeira contratação."
+      }
+    ]
+  }
